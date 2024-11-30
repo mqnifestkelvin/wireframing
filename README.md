@@ -107,3 +107,42 @@ Wireframes can be classified into two main types: Low-Fidelity and High-Fidelity
 - Best suited for gathering feedback on the structure and flow of the design.
 
 Low-fidelity wireframes are an excellent starting point in the design process, ensuring foundational ideas are solid before progressing to more detailed, high-fidelity wireframes.
+
+## Wireframing Tools
+
+Wireframing tools play a critical role in the design process by enabling designers to create, iterate, and share wireframes efficiently. Here are some popular wireframing tools:
+
+### Popular Wireframing Tools
+
+1. **Figma**
+
+   - Figma is a cloud-based design and prototyping tool known for its collaborative features.
+   - **Key Features:**
+     - Real-time collaboration for teams.
+     - Drag-and-drop interface for creating wireframes quickly.
+     - Extensive library of templates and plugins.
+     - Cross-platform compatibility (browser-based with desktop apps available).
+   - **Why It’s Recommended for Wireframing:**
+     - Intuitive interface, making it accessible for beginners and professionals alike.
+     - Facilitates seamless collaboration, allowing multiple users to work on a wireframe simultaneously.
+     - Supports both low-fidelity and high-fidelity wireframing.
+   - **Website:** [Figma](https://www.figma.com)
+
+2. **Sketch**
+
+   - A design tool popular among macOS users for creating high-fidelity wireframes and prototypes.
+
+3. **Adobe XD**
+
+   - A vector-based tool for wireframing, UI/UX design, and prototyping, suitable for integration with Adobe Creative Cloud.
+
+4. **Balsamiq**
+
+   - A tool specifically designed for low-fidelity wireframing with a simple drag-and-drop interface.
+
+5. **Draw.io**
+   - A free tool for creating diagrams and low-fidelity wireframes, perfect for quick brainstorming.
+
+---
+
+Figma stands out as a highly recommended tool due to its versatility, collaboration capabilities, and ease of use. Whether you're creating basic wireframes or detailed prototypes, Figma provides the necessary tools to bring your designs to life.
